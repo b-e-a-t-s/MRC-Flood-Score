@@ -1,0 +1,22 @@
+[
+  {
+    "k": 2,
+    "silhouette_score": 0.6336,
+    "davies_bouldin": 0.6217
+  },
+  {
+    "k": 3,
+    "silhouette_score": 0.583,
+    "davies_bouldin": 0.5299
+  },
+  {
+    "k": 4,
+    "silhouette_score": 0.5997,
+    "davies_bouldin": 0.5744
+  },
+  {
+    "k": 5,
+    "silhouette_score": 0.5441,
+    "davies_bouldin": 0.5701
+  }
+]
