@@ -1,0 +1,10 @@
+{
+  "spearman_r": 1.0,
+  "spearman_p": 0.0,
+  "monotonicity_ratio": 1.0,
+  "monotonic_increases": 2,
+  "total_transitions": 2,
+  "actual_bins": 3,
+  "n_valid_points": 2094,
+  "n_excluded": 48
+}
